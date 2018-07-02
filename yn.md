@@ -6,9 +6,9 @@
 #contents
         --
 
-#自己紹介・かずさDNA研紹介 [#zbc1f740]
+# 自己紹介・かずさDNA研紹介 [#zbc1f740]
 
-##講師の中村 [#te6eb39b]
+## 講師の中村 [#te6eb39b]
 
 - 41歳。木更津市在住。
 
@@ -19,7 +19,7 @@
 
 - 京大→遺伝研→かずさと「ゲノム」と「情報」を扱ってきています。
 
-##かずさDNA研究所 [#y0a2950c]
+## かずさDNA研究所 [#y0a2950c]
 
 我が国初の大規模ゲノム塩基配列決定研究機関です。
 
@@ -28,14 +28,14 @@
     -根粒菌（共生窒素固定細菌) http://www.kazusa.or.jp/rhizo/
     -高等植物(シロイヌナズナ、ミヤコグサ、ユーカリ、トマト)
 
-#【実習】検索使い倒し [#c09d8a7d]
+# 【実習】検索使い倒し [#c09d8a7d]
 
-##google [#ga0bb654]
+## google [#ga0bb654]
 
 ま、とにかく、まずは「ググれ」<br>
 http://www.google.co.jp
 
-###google は、なぜ検索できるのか [#db84050e]
+### google は、なぜ検索できるのか [#db84050e]
 - 「ロボット」もしくは「クローラー」がリンクをたどって収集にやってくる（以下はとあるかずさのWWWサーバのアクセスログにあったgooglebotの接続の痕跡）
  crawl-66-249-73-53.googlebot.com - - [11/Jul/2007:02:33:55 +0900] "GET /~yn/nekophoto/nekophoto-Thumbnails/82.jpg HTTP/1.1" 200 4612 "-" "Googlebot-Image/1.0"
  crawl-66-249-73-53.googlebot.com - - [11/Jul/2007:02:36:42 +0900] "GET /~yn/images/ika_kaidan.jpg HTTP/1.1" 200 25334 "-" "Googlebot-Image/1.0"
@@ -70,7 +70,7 @@ http://www.google.co.jp
 日本人の書いた文章がたくさんかかってくると、怪しいわけですよ。
 
 
-###一歩すすんだ検索 [#uf1bc65a]
+### 一歩すすんだ検索 [#uf1bc65a]
 
 情報リテラシーを高めましょう
 
@@ -143,7 +143,7 @@ http://www.google.com/intl/ja/help/features.html#calculator <br>
     -解答：&color(white){3th root of 8　どうやら日本語の表記法は無いようです};
     -「1000円を米ドルに」なんてのも可能
 
-##googleなその他のサーヴィスを使い倒す [#j2913449]
+## googleなその他のサーヴィスを使い倒す [#j2913449]
 
 - 学術系検索: http://scholar.google.com <br>
 学術専門誌、論文、書籍、要約など、さまざまな分野の学術資料を検索。ISIと契約するお金がなくても、論文引用数の概数を知ることは可能。たとえば<br>
