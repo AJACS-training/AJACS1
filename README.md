@@ -29,4 +29,4 @@
 
 ### 午後の部（講習、13:30-17:30）  
 
-* 13:30-17:30 中村保一（かずさDNA研究所）＋DBCLS所員[「ゲノム情報リテラシー入門」](http://MotDB.DBCLS.jp/?AJACS1%2F%B9%D6%BD%AC%C6%E2%CD%C6 "AJACS1/講習内容 (3770d)")
+* 13:30-17:30 中村保一（かずさDNA研究所）＋DBCLS所員「ゲノム情報リテラシー入門」[part1](part1.md), [part2](part2.md), [part3](part3.md), [part4](part4.md)
